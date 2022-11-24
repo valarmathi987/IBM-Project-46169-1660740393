@@ -1,0 +1,3 @@
+clc;
+clearall;
+close all;
